@@ -21,7 +21,7 @@ The **share of the total diet drinks** is also **increasing from 17% in 2000 to 
 
 ###Conclusion
 
-There is a significant difference in the evolution of softdrink consumption over this 5 year period (2008-2013) depending on country.  
+There is a significant difference in the evolution of softdrink consumption over this 5 year period (2008-2013) depending on country.
 
 The **general trend** seems to be a **reduction in sales** in Europe with the **exception of Germany, Belgium, Denmark, France, Sweden and UK.**
 
@@ -34,7 +34,7 @@ Another remarkable trend is the **rise of low-calorie drinks** which seems to in
 
 Over a period of 13 years we can see a 25.9% increase and for low-calorie drinks 123.4%!
 
-Looking at these data we conclude there is **still growth in Belgium** and our direct neigboring countries which is **possitive**. 
+Looking at these data we conclude there is **still growth in Belgium** and our direct neigboring countries which is **possitive**.
 
 There is **more health awareness** which is also positive since a healthier softdrink alternative is one of our objectives.
 
@@ -42,3 +42,5 @@ There is **more health awareness** which is also positive since a healthier soft
 * Source: [http://www.fieb-viwf.be/nl/frisdrank/frisdranken-voor-elk-wat-wils](http://www.fieb-viwf.be/nl/frisdrank/frisdranken-voor-elk-wat-wils)
 
 * Source: [http://ec.europa.eu/eurostat](http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&plugin=1&pcode=tec00115&language=en&toolbox=sort)
+
+
