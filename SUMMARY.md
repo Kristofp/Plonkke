@@ -11,7 +11,7 @@
    * [Belgian Kombucha Producers](industry_environment/kombucha_belgian_producers.md)
    * [Int'l Kombucha Brands on Belgian Market](industry_environment/o.md)
    * [Other competitors on Belgian Market](industry_environment/other_competitors_on_belgian_market.md)
-   * [Customers](industry_environment/Customers/customers.md)
+   * [Customers](industry_environment/customers.md)
    * [Product positioning](industry_environment/product_positioning.md)
    * [Target audience](strategy/README.md)
    * [Suppliers](suppliers.md)
