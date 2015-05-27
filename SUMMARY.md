@@ -14,7 +14,7 @@
    * [Customers](industry_environment/customers.md)
    * [Product positioning](industry_environment/product_positioning.md)
    * [Target audience](strategy/README.md)
-   * [Suppliers](suppliers.md)
+   * [Suppliers](industry_environment/suppliers.md)
 * [Swot analysis](swot_analysis/README.md)
 * [Marketing strategy](marketing_strategy/README.md)
 * [Pricing](industry_environment/pricing.md)
