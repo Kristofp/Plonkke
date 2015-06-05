@@ -15,7 +15,7 @@
 
 Carpe Diem is a subsidary of Red Bull GmbH & Co KG.  It produces Kombucha for a wider public but the Kombucha contains no living ferments or probiotics.
 
-###Product - Price - Promotion & Place Analysis of competiting products
+###Product - Price - Promotion & Place Analysis of competing products
 
 #### Carpe Diem GmbH & Co KG
 
