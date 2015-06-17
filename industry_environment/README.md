@@ -22,11 +22,10 @@ Data from [SPINS](http://www.spins.com) are slightly different but based on actu
 
 ##Kombucha in Google Trends
 
+
 <script type="text/javascript" src="//www.google.com/trends/embed.js?hl=nl&q=kombucha&tz&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
 
 <script type="text/javascript" src="//www.google.com/trends/embed.js?hl=nl&q=kombucha&tz&content=1&cid=GEO_TABLE_0_0&export=5&w=500&h=330"></script>
-
-
 
 
 
