@@ -20,6 +20,12 @@ Data from [SPINS](http://www.spins.com) are slightly different but based on actu
 * [http://healthyliving.msn.com](http://healthyliving.msn.com/nutrition/this-years-6-top-healthy-food-trends#6)
 * [http://www.foodandnutrition.org](http://www.foodandnutrition.org/Stone-Soup/January-2014/Healthy-Food-Trends-of-2014/)
 
+##Kombucha in Google Trends
+
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=nl&q=kombucha&tz&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
+
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=nl&q=kombucha&tz&content=1&cid=GEO_TABLE_0_0&export=5&w=500&h=330"></script>
+
 
 
 
